@@ -1,1 +1,1 @@
-# kmnist-cnn
+# KMNIST CNN Modeling Training and GUI
