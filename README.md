@@ -11,6 +11,9 @@ KMNIST - short for Kuzushiji-MNIST - is a drop-in replacement for the MNIST data
 ## How the app looks (there is a demo video as well!)
 <img width="1294" height="759" alt="image" src="https://github.com/user-attachments/assets/35901b4c-8946-4763-89b5-85fca783870c" />
 
+## Demo of the App
+Here is the app that has been deployed on Streamlit!: https://ykuw2-kmnist-cnn.streamlit.app/
+
 ## If you want to clone this repo for your own use/for fun!
 1. Go to your terminal
 2. `cd` into a specific folder you want to clone this repo in
